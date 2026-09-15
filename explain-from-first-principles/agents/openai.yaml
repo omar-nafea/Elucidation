@@ -1,0 +1,4 @@
+interface:
+  display_name: "Explain from First Principles"
+  short_description: "Teach concepts from foundations to practice"
+  default_prompt: "Use $explain-from-first-principles to teach dependency injection in backend systems from fundamentals through production implementation."
